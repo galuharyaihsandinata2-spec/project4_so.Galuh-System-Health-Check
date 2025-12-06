@@ -16,3 +16,6 @@ tasklist >> documents_laporan.txt,"Perintah ini digunakan untuk menampilkan daft
 ,">>: Operator pengalihan yang digunakan untuk menambahkan (append) output perintah ke akhir file yang sudah ada (documents_laporan.txt). Jadi, hasil tasklist akan ditambahkan setelah hasil chkdsk."
 
 type documents_laporan.txt,"Perintah ini digunakan untuk menampilkan seluruh isi dari file teks (documents_laporan.txt) langsung ke layar Command Prompt, memungkinkan pengguna untuk melihat hasil laporan yang telah dibuat."
+
+maka keluar hasil
+gambar : https://drive.google.com/file/d/1WGdxrp24WZ2qoWqxeIlm5rISZRu-r2sg/view?usp=sharing
